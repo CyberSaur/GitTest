@@ -1,2 +1,2 @@
 # GitTest
-A simple Git test.
+A simple Git test to practice GitHub.
